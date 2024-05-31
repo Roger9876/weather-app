@@ -42,19 +42,19 @@ The Weather App consists of three main screens:
 
 - **Search for a City:** Enter the name of the city in the search bar to get current weather details.
 - **Current Weather Display:** Shows the current temperature, weather condition, and other relevant information for the searched city.
-![Main Screen](mainpage.png)
+![Main Screen](./assets/mainpage.png)
 
 ### Favourites Screen
 
 - **View Favourites:** Displays a list of your favourite cities with their current weather details.
 - **Remove from Favourites:** Option to remove cities from your favourites list.
-![Favourites Screen](favouritespage.png)
+![Favourites Screen](./assets/favouritespage.png)
 
 ### 5-Day Forecast Screen
 
 - **Daily Forecasts:** Shows the weather forecast for the next five days for a selected city.
 - **Detailed Information:** Each day's forecast includes temperature highs and lows, weather conditions, and other relevant data.
-![fivedayforcastpage](fivedayforcastpage.png)
+![fivedayforcastpage](./assets/fivedayforcastpage.png)
 
 ## Features
 
